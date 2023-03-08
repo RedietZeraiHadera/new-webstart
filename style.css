@@ -1,0 +1,202 @@
+@media (min-width: 600px) and (max-width: 768px) {
+    body {
+      
+    }
+  }
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.sec{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: yellow;
+    padding:1% 5% ;
+    height: 50px;
+    margin-top: 20px;
+}
+#im1{
+    width :20px;
+}
+.new1{
+    display: flex;
+    justify-content: space-around;
+}
+.new2{
+    display: flex;
+    justify-content: space-around;
+}
+.new3{
+    display: flex;
+    justify-content: space-around;
+}
+.new4{
+    display: flex;
+    justify-content: space-around;
+}
+.new5{
+    display: flex;
+    justify-content: space-around;
+}
+.new6{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.right{
+    float: right;
+    margin-top: -400px;
+    margin-right: 100px;
+    border-style: solid;
+    padding: 5%;
+}
+#no{
+    width: 30px;
+    margin-left: -300px;
+
+}
+
+.nol{
+    display: flex;
+    justify-content: space-around;
+}
+.alr{
+    display: flex;
+    justify-content: space-around;
+}
+.im1{
+    width: 250px;
+    margin-left:-700px;
+}
+.im2{
+    width: 300px;
+
+}
+.im3{
+    width: 300px;
+    margin-right: -700px;
+}
+.im4{
+    margin-right: -600px;
+    width: 300px;}
+
+ .new2{
+       
+        width: 300px;
+        margin-left: -100px;
+  }
+
+.im5{
+    width: 100px;
+    margin-right: -900px;
+}
+.im6{
+    width: 300px;
+}
+.im7{
+    width: 300px;
+}
+.im8{
+    width: 300px;
+}
+.im9{
+    width: 300px;
+}
+.im10{
+    width: 300px;
+}
+.red{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.alr{
+    background-color: blue;
+    margin-top: 60px;
+}
+#but{
+    background-color: yellow;
+    border-color: yellow;
+    padding: 0% 15%;
+    border-radius: 8px;
+
+}
+#bu2{
+    margin-top: 100px;
+    margin-left: 600px;
+    background-color: yellow;
+    border-radius: 8px;
+    padding: 1% 4%;
+}
+#h11{
+    margin-left: 1000px;
+    margin-bottom: 100px;
+    margin: 100px;
+}
+#h12{
+    margin-left: 1000px;
+    margin-bottom: 100px;
+    margin: 100px;
+}
+#h13{
+    margin-left: -100px;
+    margin-bottom: 100px;
+    margin: 100px;
+}
+.news{
+    background-color: yellow;
+    margin:80px 300px;
+    padding: 0% 0% 2% 2%;
+}
+.sec a{
+    margin-left: -400px;
+}
+.br{
+    margin: 10px;
+}
+#b{
+margin-left: 50px;
+border-color: yellow;
+border-radius: 8px;
+}
+#c{
+    border-color: yellow;
+    border-radius: 8px;
+}
+#e5{
+    border-radius: 8px;
+}
+#e1{
+    border-radius: 8px;
+}
+#e2{
+    border-radius: 8px;
+}
+#e3{
+    border-radius: 8px;
+}
+
+#e4{
+    border-radius: 8px;
+}
+#bb1{
+    width: 300px;
+    border-radius: 8px;
+
+}
+#bb2{
+    width: 300px;
+    border-radius: 8px;
+    
+}
+#bb3{
+    width: 300px;
+    height: 200px;
+    border-radius: 8px;
+    
+}
+#on{
+    margin-left: 300px;
+}
