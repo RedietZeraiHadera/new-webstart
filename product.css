@@ -160,6 +160,7 @@ color: gray;
             margin-top: 30px;
             padding:1% ;
             height: 30px;
+            width: 200px;
     
         }
     
@@ -223,18 +224,29 @@ color: gray;
     .at2{
         float: right;
         margin-top: -20px;
-        margin-right: 50px;
         margin-bottom: 40px;
+        margin-right: 100px;
+        size: 100px;
+
     }
     .at1{
-        margin-left: 30px;
+        margin-left: -100px;
         margin-bottom: 50px;
+        size: 100px;
+        
         
     }
     .at3{
-        margin-left: 50px;
+        margin-left: -90px;
         margin-top: -100px;
         max-width: 20%;
+        size: 100px;
+
+    }
+    .lim{
+        display: grid;
+        grid-template-columns: 2fr;
+
     }
     .p2{
         margin-left: 100px;
@@ -251,8 +263,9 @@ color: gray;
         background-color: rgb(37, 3, 70);
     }
     .par{
-        margin-left: 200px;
+        margin-left: -2px;
         margin-top: 50px;
+        width: 100px;
     }
     #pol{
         color: green;
@@ -265,10 +278,55 @@ color: gray;
         border-color: yellow;
         
     }
-    
-  
-   
+    .top2{
+        margin-left:-120px;
+        margin-top: 100px;
+        width: 300px;
+    }
+  #h1{
+        font-size: 20px;
+    }
+  .ij{
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-left: -10px;
+}
+.buts{
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-left:-50px;
+}
+.par{
+    margin-top: 200px;
+}
+#h2{
+    font-size: 20px;
+    margin-left: -80px;
+}
+#h3{
+font-size: 20px;
+margin-left: -80px;
+
+}
+
+.alr{
+    margin-left: -5px;
+    display: grid;
+      
+     }
+     .ft2{
+      margin-left: -15px;
+     }
+     .ft3{
+      margin-left: -15px;
+     }
+     .ft4{
+      margin-left: -15px;
+     }
+
   }
+   
+  
 
  
 
